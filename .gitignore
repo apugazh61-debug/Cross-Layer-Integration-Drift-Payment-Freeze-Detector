@@ -1,0 +1,5 @@
+case_data/
+*.zip
+__pycache__/
+*.pyc
+.env
